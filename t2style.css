@@ -1,0 +1,38 @@
+ body {
+             /* background-color: hsl(192, 80%, 72%); */
+             background-color: cyan;
+             margin: 20%;
+             font-family: Arial, Helvetica, sans-serif;
+            }
+
+       div#tribute-data {
+                text-align: center;
+                text_shadow: 5px 5px 10px white;
+                font-size: 12px;
+                }
+
+       img {
+            display: inline-block;
+            width: 100%;
+           }
+
+       #caption {
+                font-size: 15px;
+                font-family: Gill Sans;
+                color: black;
+                }
+
+       #title {
+                text-align: center;
+                background-color: rgba(239, 187, 65, 0.859);
+                box-shadow: 10px 10px 10px #c9ae4d;
+                font-family: Georgia;
+                padding: 20px 20px;
+                margin: 15px;
+                /* margin-top: 40px; */
+               }
+
+       #tribute-link {
+                text-decoration: none;
+                /* color: #000000; */
+                }
